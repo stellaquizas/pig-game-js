@@ -6,4 +6,4 @@ It is a simple game where two players can play. The player who scores 100 points
 
 ### Hosting
 
-TBC
+You can play the game <a href="https://pig-game-quizas.netlify.app/" target="_blank">here</a>

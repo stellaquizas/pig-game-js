@@ -51,6 +51,8 @@ newBtn.addEventListener('click', function () {
   // reset the player names
   document.getElementById('name--0').textContent = 'Player 1';
   document.getElementById('name--1').textContent = 'Player 2';
+  // reset the style for the winner
+  document.querySelector('.player--winner').classList.remove('player--winner');
   // reset the active player
   document.querySelector('.player--0').classList.add('player--active');
   document.querySelector('.player--1').classList.remove('player--active');
